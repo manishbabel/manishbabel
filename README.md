@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+You can find my project and previous work here:
+Data Science Portoflio
+Connect with me:
+
+Open Source & Projects:
+
 <!--
 **manishbabel/manishbabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
